@@ -1,5 +1,4 @@
 # online-shopping-cart-part1
-
 7.23 LAB*: Online shopping cart (Part 1)
 
 (1) Create three files to submit:
