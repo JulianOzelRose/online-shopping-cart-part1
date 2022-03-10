@@ -1,5 +1,5 @@
 /***********************************************************************************************
- *   Author:      Julian R.
+ *   Author:      Julian Rose
  *   File:        main.cpp
  *   Course:      CS 7B
  *   Assignment:  Project 1A: Online Shopping Cart, Part 1
